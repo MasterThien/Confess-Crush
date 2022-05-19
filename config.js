@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi vợ tương lai",
-    introTitle: 'Đinh T Hồng Hạnh',
+    introTitle: 'Nhii',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi bạn Thiện đẹp trai<3',
     reply: 'Thiện Thiện Thiện',
     mess: 'Tui biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Làm người iu anh nhé beby.',
+    messDesc: 'Làm người iu anh nhé babii.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/Hong.Tri.Thien ' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
